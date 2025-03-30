@@ -1,0 +1,14 @@
+C:\Users\isard\source\repos\T1.PR1.SeguretatiVulnerabilitat\T1.PR1.SeguretatiVulnerabilitat\bin\Debug\net9.0\T1.PR1.SeguretatiVulnerabilitat.exe
+C:\Users\isard\source\repos\T1.PR1.SeguretatiVulnerabilitat\T1.PR1.SeguretatiVulnerabilitat\bin\Debug\net9.0\T1.PR1.SeguretatiVulnerabilitat.deps.json
+C:\Users\isard\source\repos\T1.PR1.SeguretatiVulnerabilitat\T1.PR1.SeguretatiVulnerabilitat\bin\Debug\net9.0\T1.PR1.SeguretatiVulnerabilitat.runtimeconfig.json
+C:\Users\isard\source\repos\T1.PR1.SeguretatiVulnerabilitat\T1.PR1.SeguretatiVulnerabilitat\bin\Debug\net9.0\T1.PR1.SeguretatiVulnerabilitat.dll
+C:\Users\isard\source\repos\T1.PR1.SeguretatiVulnerabilitat\T1.PR1.SeguretatiVulnerabilitat\bin\Debug\net9.0\T1.PR1.SeguretatiVulnerabilitat.pdb
+C:\Users\isard\source\repos\T1.PR1.SeguretatiVulnerabilitat\T1.PR1.SeguretatiVulnerabilitat\obj\Debug\net9.0\T1.PR1.SeguretatiVulnerabilitat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\source\repos\T1.PR1.SeguretatiVulnerabilitat\T1.PR1.SeguretatiVulnerabilitat\obj\Debug\net9.0\T1.PR1.SeguretatiVulnerabilitat.AssemblyInfoInputs.cache
+C:\Users\isard\source\repos\T1.PR1.SeguretatiVulnerabilitat\T1.PR1.SeguretatiVulnerabilitat\obj\Debug\net9.0\T1.PR1.SeguretatiVulnerabilitat.AssemblyInfo.cs
+C:\Users\isard\source\repos\T1.PR1.SeguretatiVulnerabilitat\T1.PR1.SeguretatiVulnerabilitat\obj\Debug\net9.0\T1.PR1.SeguretatiVulnerabilitat.csproj.CoreCompileInputs.cache
+C:\Users\isard\source\repos\T1.PR1.SeguretatiVulnerabilitat\T1.PR1.SeguretatiVulnerabilitat\obj\Debug\net9.0\T1.PR1.SeguretatiVulnerabilitat.dll
+C:\Users\isard\source\repos\T1.PR1.SeguretatiVulnerabilitat\T1.PR1.SeguretatiVulnerabilitat\obj\Debug\net9.0\refint\T1.PR1.SeguretatiVulnerabilitat.dll
+C:\Users\isard\source\repos\T1.PR1.SeguretatiVulnerabilitat\T1.PR1.SeguretatiVulnerabilitat\obj\Debug\net9.0\T1.PR1.SeguretatiVulnerabilitat.pdb
+C:\Users\isard\source\repos\T1.PR1.SeguretatiVulnerabilitat\T1.PR1.SeguretatiVulnerabilitat\obj\Debug\net9.0\T1.PR1.SeguretatiVulnerabilitat.genruntimeconfig.cache
+C:\Users\isard\source\repos\T1.PR1.SeguretatiVulnerabilitat\T1.PR1.SeguretatiVulnerabilitat\obj\Debug\net9.0\ref\T1.PR1.SeguretatiVulnerabilitat.dll

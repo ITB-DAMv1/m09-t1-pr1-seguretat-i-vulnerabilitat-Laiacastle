@@ -136,3 +136,33 @@ __Indica les referències que has consultat, seguint el següent format:__
 
 Link a l'exercici: 
 https://github.com/ITB-DAMv1/m09-t1-pr1-seguretat-i-vulnerabilitat-Laiacastle/tree/main/T1.PR1.SeguretatiVulnerabilitat
+
+# Biblografia
+
+The Hacker Way (2025) Conoce las vulnerabilidades definidas en la guía OWASP API Security Project. The Hacker Way. Recuperat el dia 24/3/2025 de
+
+https://thehackerway.es/2023/10/11/conoce-las-vulnerabilidades-definidas-en-la-guia-owasp-api-security-project/
+
+OWASP(2025) XML External Entity (XXE) Processing. OWASAP. Recuperal el dia 24/4/2025 de
+
+https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing
+
+Dario Rivera(07/12/2021) Riesgo A10 en OWASP - Registro y monitoreo insuficiente. Pleets Blog. Recuperat el dia 24/3/2025 de
+
+https://blog.pleets.org/article/es/owasp-a10-insufficient-logging-and-monitoring#google_vignette
+
+Google(26/3/2025) Tipos de tokens. Google. Recuperat el dia 26/3/2025 de
+
+https://blog.pleets.org/article/es/owasp-a10-insufficient-logging-and-monitoring#google_vignette
+
+AuthWiki(2025). ¿Qué es Token de actualización (Refresh token)?. AuthWiki. Recuperat el dia 26/3/2025 de 
+
+https://auth-wiki.logto.io/es/refresh-token
+
+Microsoft(2025). Autenticacion y autorizacion. Microsoft. Recuperat el dia 27/3/2025 de 
+
+https://learn.microsoft.com/es-es/dotnet/architecture/maui/authentication-and-authorization
+
+Paul Ulvinius(8/6/2020). Cryptography with Practical Examples in .Net Core. Dev. Recuperat el dia 27/3/2025 de 
+
+https://dev.to/stratiteq/cryptography-with-practical-examples-in-net-core-1mc4

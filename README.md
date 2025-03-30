@@ -135,3 +135,4 @@ __Per realitzar aquest exercici utilitza la llibreria System.Security.Cryptograp
 __Indica les referències que has consultat, seguint el següent format:__
 
 Link a l'exercici: 
+https://github.com/ITB-DAMv1/m09-t1-pr1-seguretat-i-vulnerabilitat-Laiacastle/tree/main/T1.PR1.SeguretatiVulnerabilitat
